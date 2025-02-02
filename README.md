@@ -1,16 +1,13 @@
-## Hi there 👋
+# Project Name - DeepSheikh
 
-<!--
-**mrhutututu/mrhutututu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Development & Maintenance: [Shakib H.](https://facebook.com/hutututuh)  | [GitHub](https://github.com/shakib-h)
 
-Here are some ideas to get you started:
+## 🎨 Credits  
+- **Logo Design:** [Shahriar Zaman Siham](https://facebook.com/shahriar.siham)  
+- **UI:** [Anse](https://github.com/anse-app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Feedback  
+Got feedback or suggestions? Reach out on Telegram: [@MrHutututu](https://t.me/MrHutututu)  
+
+## ⚠️ Note  
+This project is created **entirely for fun**, and I am using a **free API**, which comes with some limitations. If you don’t get a reply, please click **Regenerate** and try again.
